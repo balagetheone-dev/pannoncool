@@ -1,0 +1,9 @@
+name = "pannon-cool-backend"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pannon_cool_db"
+database_id = "pannon_cool_db" # Placeholder, will be handled by deploy tool

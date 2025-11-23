@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "pannon-cool-backend" generated at 2025-11-22T13:21:49.048Z.
